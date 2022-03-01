@@ -11,7 +11,8 @@ class About extends Component {
                     <span className={classes.head}>ABOUT ME</span>
                     <h2 className={classes.heading}>Who Am I?</h2>
                     <div className={classes.About}>
-                        <p> My name is SACHIN MITTAL and I am currently pursuing my degree in Bachelor of Technology in Computer Science and Engineering from Sant Longowal Institute of Engineering and Technology. I want to be a developer as I am interested in developing new things which excite me a lot. :)  </p>
+                        <p> My name is Qasem Mohammad. I have a BA in Journalism and Media (electronic journalism) from the Arab Open University AOU. I am seeking to become a professional software developer that no one can compete with because I have the skills and passion that help me to become a professional software developer.
+                            I am looking for anything that interests me ::)  </p>
                         <p className={classes.br}>I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
                         </p>
                     </div>
