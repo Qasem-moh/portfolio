@@ -23,7 +23,7 @@ import laptop1 from '../images/laptop1.jpg'
                     </div>
                 </div>
                 <div className={classes.image_container}>
-                    <img className={classes.image} src={Pencil} alt="myImage"/>
+                    <img className={classes.image} src={code} alt="myImage"/>
                     <div  className={classes.h2}> 
                     <h1> I love building</h1>
                     <h1>THINGS!!</h1>
