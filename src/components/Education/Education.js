@@ -24,7 +24,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Higher Education  <span>2018-2021</span></h2>
-                                                    <p>I have completed my higher education from AIOU with major Media and Press </p>
+                                                    <p>I have completed my higher education from AOU with major Media and Press </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
